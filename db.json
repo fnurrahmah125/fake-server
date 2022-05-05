@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "Nur",
+      "score": "90",
+      "id": 1
+    },
+    {
+      "name": "Rahmah",
+      "score": "100",
+      "id": 2
+    },
+    {
+      "name": "April",
+      "score": "60",
+      "id": 3
+    },
+    {
+      "name": "Bagas",
+      "score": "80",
+      "id": 4
+    },
+    {
+      "name": "Fikri",
+      "score": "80",
+      "id": 5
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who is making the Web standards?",
+      "options": ["The World Wide Web Consortium", "Microsoft", "Mozilla"],
+      "answer": 0,
+      "id": 1
+    },
+    {
+      "question": "Choose the correct HTML element for the largest heading:",
+      "options": ["<head>", "<h1>", "<h6>", "<heading>"],
+      "answer": 1,
+      "id": 2
+    },
+    {
+      "question": "Which of these elements are all <table> elements?",
+      "options": ["<thead><tbody><tr>", "<table><tr><tt>", "<table><head><tfoot>", "<table><tr><td>"],
+      "answer": 3,
+      "id": 3
+    },
+    {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": ["styles", "style", "class", "font"],
+      "answer": 1,
+      "id": 4
+    },
+    {
+      "question": "Which CSS property controls the text size?",
+      "options": ["text-size", "text-style", "font-size", "font-style"],
+      "answer": 2,
+      "id": 5
+    },
+    {
+      "question": "How do you display hyperlinks without an underline?",
+      "options": ["a{decoration:no-underline;}", "a{text-decoration:none;}", "a{underline:none;}", "a{text-decoration:no-underline;}"],
+      "answer": 1,
+      "id": 6
+    },
+    {
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "options": ["<script>", "<scripting>", "<js>", "<javascript>"],
+      "answer": 0,
+      "id": 7
+    },
+    {
+      "question": "How do you create a function in JavaScript?",
+      "options": ["function = myFunction()", "function myFunction()", "function:myFunction()"],
+      "answer": 1,
+      "id": 8
+    },
+    {
+      "question": "How can you add a comment in a JavaScript?",
+      "options": ["//This is a comment", "<!--This is a comment-->", "'This is a comment'"],
+      "answer": 0,
+      "id": 9
+    },
+    {
+      "question": "How do you round the number 7.25, to the nearest integer?",
+      "options": ["rnd(7.25)", "round(7.25)", "Math.rnd(7.25)", "Math.round(7.25)"],
+      "answer": 3,
+      "id": 10
+    }
+  ]
+}
